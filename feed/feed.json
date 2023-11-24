@@ -1,18 +1,18 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "My Example Feed",
-    "home_page_url": "https://example.org/",
-    "feed_url": "https://example.org/feed/feed.json",
+    "title": "Programing Languages",
+    "home_page_url": "https://antropodus17.github.io/jasonrss/",
+    "feed_url": "https://antropodus17.github.io/jasonrss/feed/feed.json",
     "items": [
         {
         "id": "2",
-        "content_text": "This is a second item.",
-        "url": "https://example.org/second-item"
+        "content_text": "This is Python",
+        "url": "https://antropodus17.github.io/jasonrss/python.html"
         },
         {
         "id": "1",
-        "content_html": "<p>Hello, world!</p>",
-        "url": "https://example.org/initial-post"
+        "content_html": "<p>Hello, Java</p>",
+        "url": "https://antropodus17.github.io/jasonrss/java.html"
         }
     ]
 }
